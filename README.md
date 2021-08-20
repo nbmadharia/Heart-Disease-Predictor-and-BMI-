@@ -15,6 +15,7 @@ and set of features associated with that output. Used an algorithm and try to tr
 with only features associated with them. KNN tries to find similarities between predictors and values that are within the dataset.
 
 ## Model Accuracy 88%
+## Note: use data from heart.csv to test the model.
 
 ## About Dataset: (source: https://www.kaggle.com/ronitf/heart-disease-uci)
 We have many columns like: 
@@ -65,3 +66,14 @@ To solve this we can use OPENCV library to perform real time image processing an
 
 
 <img width="1440" alt="Screenshot 2021-08-20 at 7 54 57 PM" src="https://user-images.githubusercontent.com/43234950/130264102-08da454f-b096-482a-80f6-5254edd007f1.png">
+
+<img width="1440" alt="Screenshot 2021-08-20 at 7 55 03 PM" src="https://user-images.githubusercontent.com/43234950/130264114-c68c75c1-61ab-4107-9087-0ba1e6b896dd.png">
+
+
+<img width="1440" alt="Screenshot 2021-08-20 at 7 56 26 PM" src="https://user-images.githubusercontent.com/43234950/130264170-6a2c80c6-c81c-4ad5-a793-0d8c0c2336e5.png">
+
+<img width="1440" alt="Screenshot 2021-08-20 at 7 56 32 PM" src="https://user-images.githubusercontent.com/43234950/130264734-2ad86293-c89a-4a75-8984-077c2a55d25e.png">
+
+# It has been observed while implementing that women has more risk of getting positive prediction.
+
+
