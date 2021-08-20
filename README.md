@@ -55,7 +55,7 @@ bmi value in %
 
 # FUTURE SCOPE:
 As the time was very less so I was able to implement this much of part only but it can be scaled up to a big and real-time project with more utilities and functionalities:
-## Mental health as a major problem
+## Mental health: Major problem
 As you grow old you get more tension, stress and many more things. The most common mental and neurological disorders in this age group are dementia and depression, which affect approximately 5% and 7% of the world's older population, respectively.
 To solve this we can use OPENCV library to perform real time image processing and it can determine whether the person is suffering from any mental illness or not. If it finds out then it will automatically inform his/her family members.
 
