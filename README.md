@@ -64,4 +64,4 @@ To solve this we can use OPENCV library to perform real time image processing an
 3. As data is the new fuel, we can store and manage all the inputs given into the google sheets directly using the program. By this we will be having a good amount of data to use it further for other projects or to improve the model accuracy.
 
 
-![alt text](https://ibb.co/2NB2V19)
+<img width="1440" alt="Screenshot 2021-08-20 at 7 54 57 PM" src="https://user-images.githubusercontent.com/43234950/130264102-08da454f-b096-482a-80f6-5254edd007f1.png">
